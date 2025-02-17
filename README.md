@@ -1,5 +1,5 @@
 # Razorpay-Clone
-It is website clone (Razorpay clone) only using Html and Tailwind css. 
+It is website clone (Razorpay clone) build only using Html and Tailwind css. 
 The following project is a responsive payment gateway clone that focuses on creating an interactive and user-friendly interface that adapts seamlessly to various devices, including desktops, tablets, and smartphones. It involves designing and developing intuitive navigation, engaging visuals, and responsive layouts to ensure an optimal user experience. Utilizing modern front-end technologies such as HTML and tailwind CSS, a functionality of NodeJS, the platform is a responsive frameworks and aims to deliver a visually appealing platform for users.
 
 DEMO ->  https://github.com/Ishika411/Razorpay-Clone
